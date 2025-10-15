@@ -4,5 +4,6 @@
 <p>Manual deployment</p>
 <h1>This is servicesjsp file</h1>
 <p>Jenkins deployment</p>
+<a href="test.jsp">Test page</a>
 </body>
 </html>
